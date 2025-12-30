@@ -1,0 +1,10 @@
+rac_nom,rac_url
+# Version 2025-12-17
+# Vert Clair : #90EE90   Vert Foncé : #228B22      Bleu Clair : #51A8FF      Bleu Foncé : #1F4068       Orange : #E67E22      Rouge Doux : #E74C3C      Gris Anthracite : #2C3E50
+#
+Achats,url-Achats.txt
+Carrefour,url-Carrefour.txt
+Cours Formations,url_cours-formations.txt,#228B22
+Data-Analyst,url-Data_Analyst.txt,#228B22
+News,url-News.txt
+Emplois,url-Emplois.txt,#E67E22
