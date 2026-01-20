@@ -4,4 +4,10 @@ CV Designer,https://cvdesignr.com/fr
 Glassdoor,https://www.glassdoor.fr/Job/index.htm
 Airtable,https://airtable.com/
 Make,https://www.make.com/en
+Virus total, https://www.virustotal.com/gui/home/upload,#E67E22
+Streamlit,https://share.streamlit.io/,#51A8FF
+Google Colab,https://colab.research.google.com/github/iahispano/applio/blob/master/assets/Applio.ipynb,#51A8FF
+Google Gravity , https://codelabs.developers.google.com/getting-started-google-antigravity?hl=fr#0,#51A8FF
+Feedly,https://feedly.com/,#51A8FF
 doxygen,https://www.doxygen.nl/
+Dns check,https://dnschecker.org/,#E67E22
