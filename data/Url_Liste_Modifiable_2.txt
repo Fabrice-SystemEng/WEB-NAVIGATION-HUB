@@ -1,13 +1,17 @@
 # Vert Clair : #90EE90   Vert Foncé : #228B22      Bleu Clair : #51A8FF      Bleu Foncé : #1F4068       Orange : #E67E22      Rouge Doux : #E74C3C      Gris Anthracite : #2C3E50
 #
 CV Designer,https://cvdesignr.com/fr
+Feedly,https://feedly.com/,#51A8FF
 Glassdoor,https://www.glassdoor.fr/Job/index.htm
 Airtable,https://airtable.com/
 Make,https://www.make.com/en
+https://www.kaggle.com
 Virus total, https://www.virustotal.com/gui/home/upload,#E67E22
+Dns check,https://dnschecker.org/,#E67E22
+GitHub Perso,https://github.com/Fabrice-SystemEng/
 Streamlit,https://share.streamlit.io/,#51A8FF
 Google Colab,https://colab.research.google.com/github/iahispano/applio/blob/master/assets/Applio.ipynb,#51A8FF
 Google Gravity , https://codelabs.developers.google.com/getting-started-google-antigravity?hl=fr#0,#51A8FF
-Feedly,https://feedly.com/,#51A8FF
 doxygen,https://www.doxygen.nl/
-Dns check,https://dnschecker.org/,#E67E22
+Make Academy,https://academy.make.com/,#228B22 
+Make Cours AI,https://academy.make.com/bundles/automation-to-ai-agents-foundation,#228B22
