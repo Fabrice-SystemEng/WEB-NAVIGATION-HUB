@@ -1,17 +1,16 @@
 import streamlit as st
 import os
 
-
 # ================================================================
 # ===========  BLOC DE FORCE POUR LE NOM ET L'ICÔNE  =============
-st.set_page_config(page_title="NEXUS HUB", page_icon="💠", layout="wide")
+st.set_page_config(page_title="WEB HUB", page_icon="💠", layout="wide")
 
 # Ce code HTML force le nom pour les mobiles Android/Samsung
 st.markdown(f"""
     <head>
         <title>URL HUB</title>
-        <meta name="apple-mobile-web-app-title" content="URL HUB">
-        <meta name="application-name" content="URL HUB">
+        <meta name="apple-mobile-web-app-title" content="WEB HUB">
+        <meta name="application-name" content="WEB HUB">
     </head>
     """, unsafe_allow_html=True)
 
@@ -20,7 +19,7 @@ st.markdown(f"""
 
 # config de base : st.set_page_config(page_title="WEB HUB", layout="wide")
 st.set_page_config(
-    page_title="WEB NAVIGATION HUB", 
+    page_title="WEB HUB", 
     page_icon="🚀",  # Exemples d'options possibles 🌐, 🛰️, 🧭 ou 📱
     layout="wide"
 )
