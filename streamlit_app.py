@@ -18,7 +18,7 @@ st.markdown(f"""
 # ================================================================
 # ===================     Configuration     ======================
 
-# config de base : st.set_page_config(page_title="WEB NAVIGATION HUB", layout="wide")
+# config de base : st.set_page_config(page_title="WEB HUB", layout="wide")
 st.set_page_config(
     page_title="WEB NAVIGATION HUB", 
     page_icon="🚀",  # Exemples d'options possibles 🌐, 🛰️, 🧭 ou 📱
